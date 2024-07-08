@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as palm
 import altair as alt
 
-palm.configure(api_key="AIzaSyA80czwNit7MrtUQRG5LBSla6mRQHN27j0")
+palm.configure(api_key="AIzaSyA80czwNit7MrtUQRG5LBSla6mRQHN27j")
 
 model_name = "models/text-bison-001"
 
