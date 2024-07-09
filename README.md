@@ -6,4 +6,9 @@ In addition to personalized itineraries, TripTrekk provides users with real-time
 Overall, TripTrekk is dedicated to empowering travelers to explore the world in a smart, efficient, and budget-friendly manner, making memorable travel experiences accessible to all.
 
 
-To install the requirements.txt , run ----> pip install -r requirements.txt , this should install all the dependencies for the project
+To install the requirements.txt , 
+run ----> pip install -r requirements.txt 
+, this should install all the dependencies for the project .
+
+To run the streamlit web app , 
+python -m streamlit run (path)
