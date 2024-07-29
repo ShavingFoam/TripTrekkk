@@ -1,0 +1,27 @@
+1) BEGINNER: INTRODUCTION TO GENERATIVE AI LEARNING PATH
+    I) Introduction to Generative AI : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9669778
+    II) Introduction to Large Language Models : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9694127
+    III) Introduction to Responsible AI : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9694593
+    IV) Prompt Design in Vertex AI : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9699943
+    V) Responsible AI: Applying AI Principles with Google Cloud : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9706778
+2) INTERMEDIATE: GEMINI FOR GOOGLE CLOUD LEARNING PATH
+    I) Gemini for Application Developers : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9747059
+    II) Gemini for Cloud Architects : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9709696
+    III) Gemini for Data Scientists and Analysts : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9748622
+    IV) Gemini for Network Engineers : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9748942
+    V) Gemini for Security Engineers : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9748972
+    VI) Gemini for DevOps Engineers : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9750555
+    VII) Gemini for end-to-end SDLC : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9750604
+    VIII) Develop GenAI Apps with Gemini and Streamlit : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9815379
+3) ADVANCED: GENERATIVE AI FOR DEVELOPERS LEARNING PATH
+    I) Introduction to Image Generation : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9796432
+    II) Attention Mechanism : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9796582
+    III) Encoder-Decoder Architecture: https ://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9805264
+    IV) Transformer Models and BERT Model : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9805482
+    V) Create Image Captioning Models : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9805676
+    VI) Introduction to Vertex AI Studio : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9805952
+    VII) Vector Search and Embeddings : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9813388
+    VIII) Inspect Rich Documents with Gemini Multimodality and Multimodal RAG : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9814406
+    IX) Responsible AI for Developers: Fairness & Bias : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9814575
+    X) Responsible AI for Developers: Interpretability & Transparency : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9814709
+    XI) Machine Learning Operations (MLOps) for Generative AI : https://www.cloudskillsboost.google/public_profiles/99f64ee9-f21f-4991-9c4f-da9d7cdfa80e/badges/9806641
